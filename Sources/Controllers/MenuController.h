@@ -82,6 +82,5 @@ EqualizerController;
 
 - (IBAction) openInspector:(NSMenuItem *)sender;
 - (IBAction) openLog:(NSMenuItem *)sender;
-- (IBAction) toggleAlwaysOnTop:(NSMenuItem *)sender;
 
 @end
